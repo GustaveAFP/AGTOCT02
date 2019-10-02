@@ -1,10 +1,19 @@
 Guía de instalación
+
 Requísitos
+
+Siempre se debe realizar la verificación si se tienen los repositorios del programa a ser utilizado.
+Al trabajar sobre ubuntu 18.04, esta versión ya viene con python2 y python3. Por lo que al introducir la siguiente ínea de comandos observaremos en pantalla lo siguiente.
+
+python --version
+Python 3.6.5
+
+
 Python2 Pyhon3
 
 Pasos a seguir
 
-1. Abrir la terminal de trabajo
+1. Abrir una terminal de trabajo
 2. Introducir la siguiente línea de comandos.
     nano <nombre del archivo>.py
     
