@@ -8,6 +8,9 @@ Al trabajar sobre ubuntu 18.04, esta versión ya viene con python2 y python3. Po
 python --version
 Python 3.6.5
 
+En caso de no tener respuesta en la verificación si se tiene python, debemos instalarlo. Para hacerlo debemos realizarlo de la siguiente forma.
+
+sudo apt get python3
 
 Python2 Pyhon3
 
